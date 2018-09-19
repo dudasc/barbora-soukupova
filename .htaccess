@@ -1,0 +1,16 @@
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{SCRIPT_FILENAME} !-f
+	RewriteCond %{SCRIPT_FILENAME} !-d
+	RewriteCond ^/$ !(\.(gif¦jpg¦css)$¦^/$)
+	
+
+
+
+ 	RewriteRule ^aaaa?$ /wire-project.php [NC,L]
+ 	RewriteRule ^project/sou/?$ /sou-project.php [NC,L]
+ 	RewriteRule ^project/cans/?$ /canswire-project.php [NC,L]
+
+
+
+ </IfModule>
