@@ -21,20 +21,20 @@
 					<div class="col-sm-11 col-sm-offset-1">
 						<div class="row">					
 							<div class="col-sm-12">
-								<a <a href="img/stones/1.jpg" data-lightbox="example"><img data-original="img/stones/1.jpg" class="img-responsive lazy"></a>
+								<a <a href="img/stones/1.jpg" data-lightbox="example"><img data-src="img/stones/1.jpg" class="img-responsive lazy"></a>
 							</div>					
 						</div>
 						<div class="row">
 							<div class="col-sm-6 col-xs-6">
-								<a href="img/stones/2.jpg" data-lightbox="example"><img data-original="img/stones/2.jpg" class="img-responsive lazy"></a>
+								<a href="img/stones/2.jpg" data-lightbox="example"><img data-src="img/stones/2.jpg" class="img-responsive lazy"></a>
 							</div>
 							<div class="col-sm-6 col-xs-6">
-								<a href="img/stones/3.jpg" data-lightbox="example"><img data-original="img/stones/3.jpg" class="img-responsive lazy"></a>
+								<a href="img/stones/3.jpg" data-lightbox="example"><img data-src="img/stones/3.jpg" class="img-responsive lazy"></a>
 							</div>							
 						</div>
 						<div class="row vertical-align-text">
 							<div class="col-sm-6">
-								<a href="img/stones/4.jpg" data-lightbox="example"><img data-original="img/stones/4.jpg" class="img-responsive lazy"></a>
+								<a href="img/stones/4.jpg" data-lightbox="example"><img data-src="img/stones/4.jpg" class="img-responsive lazy"></a>
 							</div>
 							<div class="col-sm-6 col-xs-12 padding-text-col-6">
 								<?= $projectStonesDescription1?>

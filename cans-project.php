@@ -21,20 +21,20 @@
 					<div class="col-sm-11 col-sm-offset-1">
 						<div class="row vertical-align-text">
 							<div class="col-sm-12">
-								<a href="img/cans/1.jpg" data-lightbox="example" data-title="sdf sg sergt sert"><img data-original="img/cans/1.jpg"  class="img-responsive lazy"></a>
+								<a href="img/cans/1.jpg" data-lightbox="example" data-title="sdf sg sergt sert"><img data-src="img/cans/1.jpg"  class="img-responsive lazy"></a>
 							</div>					
 						</div>
 						<div class="row">
 							<div class="col-sm-6 col-xs-6">
-								<a href="img/cans/2.jpg" data-lightbox="example"><img data-original="img/cans/2.jpg" class="img-responsive lazy"></a>
+								<a href="img/cans/2.jpg" data-lightbox="example"><img data-src="img/cans/2.jpg" class="img-responsive lazy"></a>
 							</div>
 							<div class="col-sm-6 col-xs-6">
-								<a href="img/cans/3.jpg" data-lightbox="example"><img data-original="img/cans/3.jpg" class="img-responsive lazy"></a>
+								<a href="img/cans/3.jpg" data-lightbox="example"><img data-src="img/cans/3.jpg" class="img-responsive lazy"></a>
 							</div>
 						</div>
 						<div class="row vertical-align-text">
 							<div class="col-sm-6">
-								<a href="img/cans/4.jpg" data-lightbox="example"><img data-original="img/cans/4.jpg" class="img-responsive lazy"></a>
+								<a href="img/cans/4.jpg" data-lightbox="example"><img data-src="img/cans/4.jpg" class="img-responsive lazy"></a>
 							</div>
 							<div class="col-sm-6 padding-text-col-6">
 								<?= $projectCansDescription1?>

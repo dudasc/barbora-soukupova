@@ -39,26 +39,26 @@ include "includes/session.php";
 			<div class="col-sm-6">
 				<div class="row">
 						<div class="col-sm-3 col-xs-6 col-sm-offset-2">
-						<a href="local-project.php"><img data-original="img/cp1.jpg" class="img-responsive img-hover"></a>
+						<a href="local-project.php"><img data-src="img/cp1.jpg" class="img-responsive img-hover lazy"></a>
 					</div>
 					<div class="col-sm-2 col-xs-6 align-bottom ">
-						<a href="stones-project.php"><img data-original="img/cp2.jpg" class="img-responsive img-hover"></a>
+						<a href="stones-project.php"><img data-src="img/cp2.jpg" class="img-responsive img-hover lazy"></a>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-sm-2 col-sm-offset-3 col-xs-6 ">
-						<a href="cans-project.php"><img data-original="img/cp3.jpg" class="img-responsive img-hover"></a>
+						<a href="cans-project.php"><img data-src="img/cp3.jpg" class="img-responsive img-hover lazy"></a>
 					</div>
 					<div class="col-sm-3 col-xs-6">
-						<a href="madeira-project.php"><img data-original="img/cp4.jpg" class="img-responsive img-hover"></a>
+						<a href="madeira-project.php"><img data-src="img/cp4.jpg" class="img-responsive img-hover lazy"></a>
 					</div>			
 				</div>
 				<div class="row">
 					<div class="col-sm-3 col-xs-6 col-sm-offset-5">
-						<a href="wire-project.php"><img data-original="img/cp5.jpg" class="img-responsive img-hover"></a>
+						<a href="wire-project.php"><img data-src="img/cp5.jpg" class="img-responsive img-hover lazy"></a>
 					</div>
 					<div class="col-sm-3 col-xs-6">
-						<a href="contrary-project.php"><img data-original="img/cp6.jpg" class="img-responsive img-hover"></a>
+						<a href="contrary-project.php"><img data-src="img/cp6.jpg" class="img-responsive img-hover lazy"></a>
 					</div>
 				</div>
 			</div>

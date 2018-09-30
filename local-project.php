@@ -20,13 +20,13 @@
 					<span><?=$projectSouPais?></span>
 				</div>-->
 						<div class="col-sm-2 col-xs-4 col-sm-offset-4 align-bottom-2">
-							<a href="local-project-2.php"><img data-original="img/sou1.jpg" class="img-responsive lazy img-hover"></a>
+							<a href="local-project-2.php"><img data-src="img/sou1.jpg" class="img-responsive lazy img-hover"></a>
 						</div>
 						<div class="col-sm-3 col-xs-4">
-							<a href="local-project-1.php"><img data-original="img/sou2.jpg" class="img-responsive lazy img-hover"></a>
+							<a href="local-project-1.php"><img data-src="img/sou2.jpg" class="img-responsive lazy img-hover"></a>
 						</div>						
 						<div class="col-sm-2 col-xs-4 col-sm-offset-6">
-							<a href="local-project-3.php"><img data-original="img/sou3.jpg" class="img-responsive lazy img-hover"></a>
+							<a href="local-project-3.php"><img data-src="img/sou3.jpg" class="img-responsive lazy img-hover"></a>
 						</div>										
 					</div>
 				</div>

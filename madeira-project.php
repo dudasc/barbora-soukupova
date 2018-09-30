@@ -21,7 +21,7 @@
 					<div class="col-sm-11 col-xs-12 col-sm-offset-1">
 						<div class="row">
 							<div class="col-sm-12 col-xs-12">
-								<a href="img/madeira/1.jpg" data-lightbox="example"><img data-original="img/madeira/1.jpg" class="img-responsive lazy"></a>
+								<a href="img/madeira/1.jpg" data-lightbox="example"><img data-src="img/madeira/1.jpg" class="img-responsive lazy"></a>
 							</div>
 							<div class="col-sm-12 col-xs-12 padding-text-col-12">
 								<?= $projectMadeiraDescription1?>
@@ -29,10 +29,10 @@
 						</div>
 						<div class="row">				
 							<div class="col-sm-4 col-xs-6">
-								<a href="img/madeira/2.jpg" data-lightbox="example"><img data-original="img/madeira/2.jpg" class="img-responsive lazy"></a>
+								<a href="img/madeira/2.jpg" data-lightbox="example"><img data-src="img/madeira/2.jpg" class="img-responsive lazy"></a>
 							</div>
 							<div class="col-sm-4 col-xs-6">
-								<a href="img/madeira/3.jpg" data-lightbox="example"><img data-original="img/madeira/3.jpg" class="img-responsive lazy"></a>
+								<a href="img/madeira/3.jpg" data-lightbox="example"><img data-src="img/madeira/3.jpg" class="img-responsive lazy"></a>
 							</div>							
 							<div class="col-sm-4 col-xs-12 padding-text-col-4 padding-text-top">
 								<?= $projectMadeiraDescription2?>
@@ -40,21 +40,21 @@
 						</div>
 						<div class="row">
 							<div class="col-sm-4 col-xs-12">
-								<a href="img/madeira/5.jpg" data-lightbox="example"><img data-original="img/madeira/5.jpg" class="img-responsive lazy"></a>
+								<a href="img/madeira/5.jpg" data-lightbox="example"><img data-src="img/madeira/5.jpg" class="img-responsive lazy"></a>
 							</div>
 							<div class="col-sm-4 col-xs-12 padding-text-col-4 padding-text-top">
 								<?= $projectMadeiraDescription3?>
 							</div>
 							<div class="col-sm-4 col-xs-12">
-								<a href="img/madeira/9.jpg" data-lightbox="example"><img data-original="img/madeira/9.jpg" class="img-responsive lazy"></a>
+								<a href="img/madeira/9.jpg" data-lightbox="example"><img data-src="img/madeira/9.jpg" class="img-responsive lazy"></a>
 							</div>					
 						</div>
 					<div class="row vertical-align-text">					
 						<div class="col-sm-4 col-xs-6">
-							<a href="img/madeira/6.jpg" data-lightbox="example"><img data-original="img/madeira/6.jpg" class="img-responsive lazy"></a>
+							<a href="img/madeira/6.jpg" data-lightbox="example"><img data-src="img/madeira/6.jpg" class="img-responsive lazy"></a>
 						</div>					
 						<div class="col-sm-4 col-xs-6">
-							<a href="img/madeira/8.jpg" data-lightbox="example"><img data-original="img/madeira/8.jpg" class="img-responsive lazy"></a>
+							<a href="img/madeira/8.jpg" data-lightbox="example"><img data-src="img/madeira/8.jpg" class="img-responsive lazy"></a>
 						</div>
 						<div class="col-sm-4 col-xs-12 padding-text-col-4">
 							<?= $projectMadeiraDescription4?>
@@ -67,22 +67,22 @@
 						</div>
 						<div class="col-sm-4 col-xs-6">
 							<a href="img/madeira/12.jpg" data-lightbox="example">
-							<img data-original="img/madeira/12.jpg" class="img-responsive lazy"></a>
+							<img data-src="img/madeira/12.jpg" class="img-responsive lazy"></a>
 						</div>
 						<div class="col-sm-4 col-xs-6">
-							<a href="img/madeira/13.jpg" data-lightbox="example"><img data-original="img/madeira/13.jpg" class="img-responsive lazy"></a>
+							<a href="img/madeira/13.jpg" data-lightbox="example"><img data-src="img/madeira/13.jpg" class="img-responsive lazy"></a>
 						</div>
 					
 					</div>
 					<div class="row vertical-align-text">
 						<div class="col-sm-4 col-xs-12">
-							<a href="img/madeira/15.jpg" data-lightbox="example"><img data-original="img/madeira/15.jpg" class="img-responsive lazy"></a>
+							<a href="img/madeira/15.jpg" data-lightbox="example"><img data-src="img/madeira/15.jpg" class="img-responsive lazy"></a>
 						</div>
 						<div class="col-sm-4 col-xs-6">
-							<a href="img/madeira/16.jpg" data-lightbox="example"><img data-original="img/madeira/16.jpg" class="img-responsive lazy"></a>
+							<a href="img/madeira/16.jpg" data-lightbox="example"><img data-src="img/madeira/16.jpg" class="img-responsive lazy"></a>
 						</div>
 						<div class="col-sm-4 col-xs-6">
-							<a href="img/madeira/17.jpg" data-lightbox="example"><img data-original="img/madeira/17.jpg" class="img-responsive lazy"></a>
+							<a href="img/madeira/17.jpg" data-lightbox="example"><img data-src="img/madeira/17.jpg" class="img-responsive lazy"></a>
 						</div>					
 					</div>
 					<div class="row">
